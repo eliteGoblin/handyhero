@@ -20,6 +20,14 @@ workbench:
 
 **M4 vs M5:** M5 is stronger (thicker shaft), but M4 grips equally well if drilled deep enough. **M4 safer for 6mm hole** (more clearance).
 
+### M to G Screw Conversion
+
+**Bunnings uses Gauge (G), not Metric (M). Formula: G ≈ M × 2**
+
+M3→6G | **M4→8G** | M5→10G | M6→12G
+
+**For your 6mm hole: Buy 8G x 65mm wood screws** (= M4 equivalent)
+
 ### Timber Options & Screw Specs:
 
 #### RECOMMENDED: M4 Softwood 4cm thick
