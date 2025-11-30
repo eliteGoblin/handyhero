@@ -1,4 +1,9 @@
 
+# Note
+
+There's a updated design in https://chatgpt.com/c/692b61e8-8554-8325-9019-ce9ec14c766d 
+TODO: merge this design in and update the proposal: use bolt inserter instead into wood. 
+
 # Measure
 
 workbench:
